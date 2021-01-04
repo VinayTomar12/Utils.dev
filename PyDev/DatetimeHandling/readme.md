@@ -1,3 +1,5 @@
-# Datetime Formatting References: 
+# Date Time Handling in Python
+#### This Folder Contains snippets and logics for date time handling in python.
 
- - https://strftime.org/
+1. Datetime Formatting References: 
+   - https://strftime.org/
